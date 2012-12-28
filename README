@@ -1,0 +1,6 @@
+A small program to convert strings to their morse code equivalent
+and play a short or long beep for each dot or dash in converted string.
+
+NOTE:
+The way the .wav files are played in this program makes it only work on linux or
+any system that can use os.system("aplay.... 
